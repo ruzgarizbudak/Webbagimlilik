@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(31, 31, 31);
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+.q{
+    color: rgb(255, 183, 0);;
+    text-align: left;
+}
+
+.x{
+    color: rgb(255, 183, 0);
+    text-align: left;
+}
+
+p{
+    color: antiquewhite;
+}
+
+a{
+    text-align: center;
+    font-size: medium;
+}
+
+img{
+    width: 240;
+    height: 270px;
+}
+
+li{
+    color: rgb(193, 22, 22);
+}
+
+h3{
+    color: rgb(255, 183, 0);
+}
