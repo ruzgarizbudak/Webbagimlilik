@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknoloji Bağımlılığı Nedir?</title>
+    <link rel="stylesheet" href="webtekno2.css">
+
+</head>
+<body>
+    <h1>Teknoloji Bağımlılığı</h1>
+    <h3 class="q">Teknoloji Nedir?</h3>
+    <p>Bir sanayi alanında gücü ve bilgiyi biriktirme, denetleme, işleme, iletme gibi amaçlarla oluşturulan makinelerin, araç gereçlerin, aygıtların, yöntemlerin vb. tümünü kapsayan uygulama bilgisi.</p>
+    <br>
+    <img src="https://cdn.gedik.com/media/media/zudgqshm/blog_ici_gorsel_teknoloji_hisseleri.png?rmode=max&width=788&height=451" alt="">
+    <br>
+    <br>
+    <br>
+    <h3 class="x">Bağımlılık Ne demek?</h3>
+    <p>Bağımlılık; kişinin kullandığı bir madde, alkol, nesne veya yaptığı bir davranış (eylem) üzerinde kontrolünü kaybetmesidir. Kontrolsüzce kullanılan her madde ya da gerçekleştirilen her davranış bağımlılık oluşturma riski taşır. Kişiler hayatta birçok şeye karşı bağımlı olabilir</p>
+    <br>
+    <h3>Bağımlılıklardan nasıl kurtulabiliriz</h3>
+    <ul>
+        <li>Teknoloji kullanımını tam zıt saatlere kaydırmak</li>
+        <li>Teknoloji kullanımıyla ilgili hedefler belirlemek</li>
+        <li>Çok kullanılan belli işlevlerden uzak durmak.</li>
+        <li> Hatırlatıcı kartlar kullanmak.</li>
+        <li>Aile terapisine başvurmak</li>
+    </ul>
+    <br>
+    <br>
+    <img src="https://ilgazsnyanadolulisesi.meb.k12.tr/meb_iys_dosyalar/18/06/317069/resimler/2023_03/k_27153254_050320221204225244172.jpg" alt="">
+    <br>
+    <a href="https://www.tuba.gov.tr/files/yayinlar/bilim-ve-dusun/TUBA-978-605-2249-48-2_Ch11.pdf">Daha Detaylı bilgi için bu siteyi kullanabilirsiniz.</a>
+    <br>
+    <br>
+</body>
+</html>
